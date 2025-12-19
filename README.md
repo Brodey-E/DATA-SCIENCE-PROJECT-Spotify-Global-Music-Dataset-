@@ -114,6 +114,14 @@ External resources were used for learning and reference purposes only. Any ideas
 
 ---
 
+## References
+
+The dataset used in this project is the *Spotify Track Popularity Dataset*, sourced from Kaggle.
+https://www.kaggle.com/datasets/wardabilal/spotify-global-music-dataset-20092025
+The dataset is used for educational purposes only and is subject to Kaggle’s dataset license.
+
+---
+
 ## Author
 
 Up2119371
